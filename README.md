@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Vercel Live Site](ecommerce-product-page-kcabsiemaneht.vercel.app)
+- Live Site URL: [Vercel Live Site](https://ecommerce-product-page-kcabsiemaneht.vercel.app/)
 
 ## My process
 
@@ -55,4 +55,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Yadier](https://www.your-site.com)
+- Website - [Yadier](https://yadierpersonalportafolio.netlify.app/)
