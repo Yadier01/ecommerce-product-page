@@ -1,5 +1,4 @@
-import { motion } from "framer-motion";
-export const SideBar = ({ sidebarHandler, sidebarOn }: any) => {
+export const SideBar = ({ sidebarHandler }: any) => {
   return (
     <aside className="fixed  inset-0 z-50 bg-gray-900 bg-opacity-75 transition-all  transition-opacity duration-300">
       <div className="bg-white w-1/2 h-full flex flex-col pl-8 py-4">
