@@ -16,7 +16,7 @@ export const Header = ({
     setSidebarOn((prev) => !prev);
   };
   return (
-    <header className="flex items-center   h-32  lg:border-b lg:mx-40 justify-between ">
+    <header className="flex items-center  p-10 -20  lg:border-b lg:mx-40 justify-between ">
       {sidebarOn && (
         <SideBar sidebarHandler={sidebarHandler} sidebarOn={sidebarOn} />
       )}
